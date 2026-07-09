@@ -114,6 +114,7 @@ This list includes in-person and remote observations for the following surveys: 
 ## Successful Observing Proposals
 
 **As PI**
+- “RR Lyrae Stars in the Hercules Stream: Testing the Oldest Tracers of a Bar-Driven Galactic Structure”, 2026B, Gemini-GHOST **(12 hr)**.
 - “Tracing the origin of outer halo high-amplitude short-period RR Lyrae stars using high-resolution spectroscopy”, 2026A, Gemini-GHOST **(12 hr)**.
 - “The CEMP-r Puzzle: Mapping Sites and Timescales of Early r-Process Enrichment”, 2026A, Gemini-GHOST **(12 hr)**.
 - “Improving the velocity estimation of the best distance tracers in the Milky Way outer halo observed by DESI”, 2024B, Spare fiber program for the Dark Energy Spectroscopic Instrument survey, KPNO-Mayall, DESI (**∼4000 outer halo RR Lyrae stars with DESI**).
@@ -165,6 +166,7 @@ and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Sere
 ### Conferences with contributions (recent only!) 
 (**[T]**: Contributed Talk, **[P]**: Poster Presentation)
 
+- Near Field Cosmology in the Era of Big Data: Local Group and Beyond, Toronto, Canada (July/2026) **T**
 - IAU 403: The hidden beauty of the Galactic outskirts, Cordoba, Spain (Oct/2025) **T**
 - DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T** (2 talks: contributed & invited)
 - The RR Lyrae and Cepheid meeting 2024 Frontiers of Classical Pulsators, Marrakesh,
@@ -290,7 +292,13 @@ Germany. (Sep/2016)
 
 **Undergraduate (BSc) students**
 
-  - Aishani Chaudhuri - University of Toronto (May/2025–)
+  - Yazan Bakhshwin - King Abdullah University of Science & Technology (May/2026–)
+
+    “The metallicity of RR Lyrae stars from their pulsational properties with machine learning” 
+
+    **Results:** In progress.
+
+  - Aishani Chaudhuri - University of Toronto (May/2025–Apr/2026)
 
     “Radial velocity and orbit analysis of binary systems in the DESI survey” 
 
