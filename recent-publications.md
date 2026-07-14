@@ -21,11 +21,11 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications in peer-reviewed journals: 65  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications in peer-reviewed journals: 78  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 6,569 <!-- /       81 (total, as first author) -->
+Number of citations: 6,982 <!-- /       81 (total, as first author) -->
 
-h-index: 23 <!-- / 5 (total,as first author) -->
+h-index: 25 <!-- / 5 (total,as first author) -->
 
 
 ## Recent Publications
@@ -47,6 +47,16 @@ h-index: 23 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- Li, T. S., Erkal, D., Pace, A. B., et al., “Boötes III is a Tidally Disrupting Ultra-Faint Dwarf Galaxy”, [2026, arXiv:2607.07803](https://ui.adsabs.harvard.edu/abs/2026arXiv260707803L/abstract). <!-- - [Obs], [DA]. -->
+- Prabhu, D. S., Sand, D. J., Chiti, A., et al., “Deep Imaging of Grus II and Horologium II: Structure and Extent of Two Ultra-Faint Milky Way Satellites”, [2026, arXiv:2606.25058](https://ui.adsabs.harvard.edu/abs/2026arXiv260625058P/abstract). <!-- - [Obs], [DA]. -->
+- Overdeck, K., Cerny, W., Tan, C. Y., et al., “Discovery and Spectroscopic Characterization of a Distant, Compact Milky Way Satellite in Gemini”, [2026, arXiv:2606.09975](https://ui.adsabs.harvard.edu/abs/2026arXiv260609975O/abstract). <!-- - [Obs], [DA]. -->  
+- Chiti, A., Drlica-Wagner, A., Pace, A. B., et al., “The DECam MAGIC Survey − Mapping the Ancient Galaxy in CaHK: Overview and Summary of Early Science”, [2026, arXiv:2605.26581](https://ui.adsabs.harvard.edu/abs/2026arXiv260526581C/abstract). <!-- - [Obs], [DA]. -->
+- Byström, A., Koposov, S. E., Li, T. S., et al., “Constraining the Galactic bar using the M92 stellar stream”, [2026, arXiv:2603.09305](https://ui.adsabs.harvard.edu/abs/2026arXiv260507918B/abstract). <!-- - [Obs], [DA]. -->
+- Jarvis, E., Li, T. S., Koposov, S. E., et al., “Characterizing the GD-1 Stream with DESI DR2 Data: Thin Stream and Hot Cocoon”, [2026, arXiv:2604.20958](https://ui.adsabs.harvard.edu/abs/2026arXiv260420958J/abstract). <!-- - [Obs], [DA]. -->
+- Do, H. Q., Chiti, A., Ferguson, P. S., et al., “The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities”, [2026, arXiv:2604.13374](https://ui.adsabs.harvard.edu/abs/2026arXiv260413374D/abstract). <!-- - [Obs], [DA]. -->
+- Li, S., Wang, W., Koposov, S. E., et al., “The velocity field of our Milky Way outer stellar halo based on DESI DR2”, [2026, arXiv:2604.01628](https://ui.adsabs.harvard.edu/abs/2026arXiv260401628L/abstract). <!-- - [Obs], [DA]. -->
+- Mohammed, N., Tang, J. Y., Li, T. S., et al., “The Kinematically Hot, Extremely Metal-Poor C-19 Stellar Stream in DESI DR2”, [2026, arXiv:2603.11171](https://ui.adsabs.harvard.edu/abs/2026arXiv260311171M/abstract). <!-- - [Obs], [DA]. -->
+- Atzberger, K. R., Pace, A. B., Kallivayalil, N., et al., “The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy”, [2026, arXiv:2602.21283](https://ui.adsabs.harvard.edu/abs/2026arXiv260221283A/abstract). <!-- - [Obs], [DA]. --> 
 - Yang, Y., Lewis, G. F., Li, T. S., et al., “Epicyclic Density Variations in the Indus Stellar Stream”, [2026, arXiv:2603.09305](https://ui.adsabs.harvard.edu/abs/2026arXiv260309305Y/abstract). <!-- - [Obs], [DA]. -->
 - Lambert, M., Rockosi, C. M., Koposov, S. E., et al., “Signatures of a Tidally Induced Spiral Arm at the Anticenter of the Milky Way and a Kinematically Extended Anticenter Stream Using DESI DR2”, [2026, arXiv:2601.14562](https://ui.adsabs.harvard.edu/abs/2026arXiv260114562L/abstract). <!-- - [Obs], [DA]. -->
 - Webber, K. B., Hansen, T. T., Marshall, J. L., et al., “Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams”, [2025, arXiv:2512.10003](https://ui.adsabs.harvard.edu/abs/2025arXiv251210003W/abstract). <!-- - [Obs], [DA]. -->
@@ -61,6 +71,7 @@ h-index: 23 <!-- / 5 (total,as first author) -->
 - Byström, A., Koposov, S., Lilleengen, S., et al., ``Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey'', [2025, MNRAS, 542, 560](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..560B/abstract). <!-- -  [Obs], [DA].-->
 - Heiger, M. E., Ji, A. P., Li, T. S., et al., “Not-so-heavy metal(s): Chemical Abundances in the Ultra-faint Dwarf Galaxies Eridanus IV and Centaurus I”, [2025, arXiv:2508.11012](https://ui.adsabs.harvard.edu/abs/2025arXiv250811012H/abstract). <!-- - [Obs], [DA]. -->
 - Chiti, A., Placco, V., Pace, A., et al., “A second-generation star in a relic dwarf galaxy”, [2025, arXiv:2508.05053](https://ui.adsabs.harvard.edu/abs/2025arXiv250811012H/abstract). <!-- - [Obs], [DA]. -->
+- Medoff, J., Mutlu-Pakdil, B., Carlin, J. L., et al., “DELVE-DEEP Survey: The Faint Satellite System of NGC 55”, [2025, ApJ, 990, 108](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..108M/abstract). <!-- - [Obs], [DA]. -->
 - Yang, H., Wang, W., Zhu, L., et al., “The dark matter content of Milky Way dwarf spheroidal galaxies: Draco, Sextans and Ursa Minor”, [2025, ApJ, 993, 249](https://ui.adsabs.harvard.edu/abs/2025ApJ...993..249Y/abstract). <!-- - [Obs], [DA]. -->
 - Chiti, A., Tavangar, K., Ferguson, P. S., et al., “DELVE-ing into the Milky Way's Globular Clusters: Assessing extra-tidal features in NGC 5897, NGC 7492, and testing detectability with deeper photometry”, [2025, AJ, 170, 294](https://ui.adsabs.harvard.edu/abs/2025AJ....170..294C/abstract). <!-- - [Obs], [DA]. -->
 - Placco, V.~M, Limberg, G., Chiti, A., et al., “The DECam MAGIC Survey: Spectroscopic Follow-up of the Most Metal-Poor Stars in the Distant Milky Way Halo”, [2025, ApJ, 991, 101](https://ui.adsabs.harvard.edu/abs/2025ApJ...991..101P/abstract). <!-- - [Obs], [DA]. -->
